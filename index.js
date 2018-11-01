@@ -5,6 +5,6 @@ function upperCaseCustomerName(){
   customerName = customerName.toUpperCase();
 }
 
-function bestCustomer(){
+function setBestCustomer(){
   bestCustomer = 'not bob';
 }
